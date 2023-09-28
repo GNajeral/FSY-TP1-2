@@ -1,0 +1,12 @@
+Question 2.6:
+
+For now sepal length / petal width is separating the classes quite well.
+Also petal length and petal width are doing quite well
+We may be able to state a criteria looking the scatter plot, checking the petal length you can differentiate the classes decently well. Although
+also petal width would be useful too.
+
+Question 3.3:
+
+The association rule learner is failing because it requires a Bit Vector to work with the data, otherwise it refuses. The professor said this is
+because it is much more efficient and easy for the association rule learner to work with Bit Vectors rather than with the raw data itself.
+
